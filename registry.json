@@ -1777,6 +1777,7 @@
       "description": "Dashboard of remaining quota and reset times for Codex, Claude and Antigravity accounts. Collects from the host's auth files with a cached snapshot and a refresh cooldown, and serves a bilingual (Korean/English) responsive page that loads no external assets. Data is served only on authenticated management routes.",
       "author": "dohwi",
       "repository": "https://github.com/dohwi/cliproxyapi-plugin-quota-monitor",
+      "logo": "https://raw.githubusercontent.com/dohwi/cliproxyapi-plugin-quota-monitor/main/logo.png",
       "homepage": "https://github.com/dohwi/cliproxyapi-plugin-quota-monitor",
       "license": "MIT",
       "tags": ["Quota", "Dashboard", "Monitoring", "Management"]
@@ -1787,6 +1788,7 @@
       "description": "Token usage audit dashboard: records per-request provider, endpoint, model, token and latency metadata without storing keys, prompts or response bodies, with period filters, charts, a request log and a bilingual (Korean/English) UI. Usage data is served only on authenticated management routes.",
       "author": "dohwi",
       "repository": "https://github.com/dohwi/cliproxyapi-plugin-usage-audit",
+      "logo": "https://raw.githubusercontent.com/dohwi/cliproxyapi-plugin-usage-audit/main/logo.png",
       "homepage": "https://github.com/dohwi/cliproxyapi-plugin-usage-audit",
       "license": "MIT",
       "tags": ["Usage", "Statistics", "Dashboard", "Management"]
